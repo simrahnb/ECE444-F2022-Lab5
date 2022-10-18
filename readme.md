@@ -6,6 +6,25 @@ This repo is a clone of https://github.com/nelaturuk/education_pathways.
 
 ![ScreenShot](screenshots/Activity1.png)
 
+#### Activity 2 
+
+![ScreenShot](screenshots/Activity2homepage.png)
+
+#### Activity 3 
+
+![ScreenShot](screenshots/Activity3homepage.png)
+
+#### Activity 4 
+
+![ScreenShot](screenshots/Activity4.png)
+
+![ScreenShot](screenshots/Activity4-1.png)
+
+#### Activity 5 
+
+![ScreenShot](screenshots/Activity5.png)
+
+
 # CARTE Education Pathways
 
 ## Description
