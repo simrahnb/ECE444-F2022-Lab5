@@ -2,6 +2,10 @@ Name: Simrah Najeeb and Shaziah Gafur
 
 This repo is a clone of https://github.com/nelaturuk/education_pathways. 
 
+#### Activity 1 
+
+![ScreenShot](screenshots/Activity1.png)
+
 # CARTE Education Pathways
 
 ## Description
