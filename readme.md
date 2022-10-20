@@ -22,6 +22,8 @@ This repo is a clone of https://github.com/nelaturuk/education_pathways.
 
 #### Activity 5 
 
+![ScreenShot](screenshots/Activity5-1.png)
+
 ![ScreenShot](screenshots/Activity5.png)
 
 
